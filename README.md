@@ -5,7 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Presentación
 > Expositora Invitada: Tania Tello (Mexico) [Beneficios de React](http://slides.com/taniaanahitello/deck#/)
-## Aplicación para ver listas de peliculas
+
+## Api Utilizado
+> The Movie DB v3 [TheMovieDB](https://www.themoviedb.org/)
+
+## Pasos para ejecutar la Aplicación
 
 ## 1. Si usted utiliza npm
 > Instalar las dependencias
