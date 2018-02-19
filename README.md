@@ -1,11 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 # Reacther
-![Reacther](https://raw.githubusercontent.com/goomovilapp/goomovil/master/public/assets/images/reacther-dark.png)
+![Reacther](https://raw.githubusercontent.com/gdgsucre/AppMovieReact/master/public/assets/images/reacther-dark.png)
 
 ## Aplicación para ver listas de peliculas
 
-1. Si usted utiliza npm
+## 1. Si usted utiliza npm
 > Instalar las dependencias
 ```sh
     npm install
@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```sh
     npm run build
 ```
-2. Si usted utiliza yarn
+## 2. Si usted utiliza yarn
 > Instalar las dependencias
 ```sh
     yarn install
