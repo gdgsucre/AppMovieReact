@@ -3,8 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Reacther
 ![Reacther](https://raw.githubusercontent.com/gdgsucre/AppMovieReact/master/public/assets/images/reacther-dark.png)
 
-## Aqui tienes disponible la presentación
-> Expositora Invitada: Tania Tello [Beneficios de React](http://slides.com/taniaanahitello/deck#/)
+## Presentación
+> Expositora Invitada: Tania Tello (Mexico) [Beneficios de React](http://slides.com/taniaanahitello/deck#/)
 ## Aplicación para ver listas de peliculas
 
 ## 1. Si usted utiliza npm
@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```sh
     npm start
 ```
-> Usted podra ver la Aplicación en la siguiente direccion [http://localhost:3000](http://localhost:3000)
+Usted podra ver la Aplicación en la siguiente direccion [http://localhost:3000](http://localhost:3000)
 
 > Para generar archivos para produccion
 ```sh
@@ -31,7 +31,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```sh
     yarn start
 ```
-> Usted podra ver la Aplicación en la siguiente direccion [http://localhost:3000](http://localhost:3000)
+Usted podra ver la Aplicación en la siguiente direccion [http://localhost:3000](http://localhost:3000)
 
 > Para generar archivos para produccion
 ```sh
